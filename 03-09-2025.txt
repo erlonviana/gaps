@@ -1,0 +1,31 @@
+Projeto classificado em:
+Sucesso: 
+Mudaram (challenged):
+Falharam (failed):
+
+Crystal Family é uma família de modelos ágeis que tem como característica se ajustar a cada projeto de acordo com a sua complexidade, adotando um conjunto de processos para cada situação.
+
+A adaptação é possível porque cada método Crystal é moldado para ter exatamente a quantidade suficiente de processos, sendo com isso capaz de atender aos projetos a partir da analise de três fatores:
+1 - A carga de comunicação (quanto mais pessoas, mais preciso conversar)
+2 - A criticicidade do projeto (riscos que o sistema pode causar/grau de dano do mau funcionamento)
+3 - A prioridade do projeto (importância para a organização e suas pessoas)
+
+Método Clear (conhecido como Crystal Clear) - até 12 pessoas
+
+Crystal Yellow - equipes de 10 a 20 membros
+Crystal Orange - de 20 a 50 integrantes
+Crystal Red - de 50 a 100 participantes
+
+Principios:
+Entrega frequente: entregas prontas, em curtos períodos, de forma frequente
+Melhorias reflexivas: falhfas revertidas em sucesso
+
+
+4 - Segurança Pessoal - informar quando algo estiver incomodando
+5 - Foco
+6 - Facil acesso aos especialistas
+
+Matriz Crystal é uma matriz de problemas / pontos de melhoria
+
+
+

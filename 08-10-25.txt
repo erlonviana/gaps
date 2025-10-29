@@ -1,0 +1,37 @@
+Projeto: esforço temporário, empreendido para criar um produto, serviço ou resultado exclusivo.
+
+exs:
+Desenvolvimento de um software = Produto
+Implementação de um help desk automatizado = Serviço
+Relatório de analise de big data para tomada de decisões estratégicas = Resultado
+
+
+Os 5 grupos de processos são:
+Iniciação
+Planejamento
+Execução
+Monitoramento e controle e
+Encerramento
+
+Iniciação: o escopo do projeto é definido, os recursos financeiros iniciais são reservados e, se ainda não foi designado, o gerente do projeto é indicado.
+
+Esta é a etapa de análise de viabilidade do projeto.
+
+Carta do projeto (Project Charter) é um dos mais importantes documentos de saída e contem: nome do projeto, gerente do projeto, patrocinador do projeto, escopo do projeto, principais riscos, prazos, investimento (orçamento), principais fazes do projeto, principais envolvidos, assinatura e aprovação do patrocinador.
+
+Planejamento
+Tem 24 de um total de 47 processos definidos no PMBok.
+
+É nessa etapa do projeto que todas as tarefas a serem executadas no projeto devem ser definidas, incluindo as atividades.
+
+O Grupo de processos envolve:
+o que deve ser feito
+quem deve fazer
+quando deve ser feito
+a que custo
+como deve ser feito
+aprovação e reunião inicial do projeto
+
+
+
+

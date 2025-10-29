@@ -1,0 +1,36 @@
+Monitoramento e controle: em conjunto com a execução. Foco é a verificação e medição do trabalho e confirmar se o planejado foi executado.
+
+Envolvem:
+Medição do desempenho do projeto em comparação com as linhas de base
+Determinação de variáveis e consequentes recomendações de ações corretivas/preventivas
+Avaliação das ações corretivas
+Auditoria de riscos
+Execução de relatórios de desempenho
+Administração de contratos
+
+Dentro do grupo de processos de controle e monitoramento encontramos dez processos que podem ser vistos:
+
+Validar o escopo
+Controlar os custos
+Controlar riscos
+Controlar o escopo
+MOnitorar e controlar o trabalho do projeto
+Realizar o controle da qualidade
+Controlar o cronograma
+Realizar o controle integrado de mudanças
+Controlar as comunicações (manter de forma uniforme a comunicação entre os integrantes do grupo)
+Controlar aquisições
+Controlar o engajamento das partes interessadas
+
+Grupo finalização: grupo formado para entregar o produto final ou encerrar um projeto cancelado. O grupo de processos de finalização deve conter:
+
+-Confirmação de que o trabalho está de acordo com os requisitos
+-O aceite formalizado (assinado) do cliente confirmando a entrega
+-Relatórios finais de desempenho
+-Arquivamento de registros do projeto e a documentação produzida
+-Atualização da base de conhecimento de lições aprendidas
+-Encerramento do projeto
+-Liberação dos recursos do projeto
+
+Atividades contínuas:
+

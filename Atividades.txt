@@ -1,0 +1,21 @@
+Atividades
+1. Qual é o princípio fundamental por trás do método ágil XP (Extreme Programming)?
+2. Como o XP aborda a comunicação e a colaboração entre os membros da equipe de desenvolvimento?
+3. Quais são os principais papéis e responsabilidades dentro de uma equipe de XP?
+4. Como o XP lida com a questão da qualidade do código e a prática de desenvolvimento orientado a testes?
+5. Quais são as práticas de programação que o XP enfatiza para garantir a entrega contínua de valor ao 
+cliente?
+6. Como o XP aborda a questão da adaptação a mudanças nos requisitos do cliente durante o 
+desenvolvimento do software?
+7. Qual é a importância da integração contínua no contexto do XP?
+8. Como o XP lida com o processo de planejamento e estimativa de projetos?
+9. Quais são os desafios comuns enfrentados pelas equipes que adotam o método ágil XP?
+10.Como a cultura organizacional e a gestão de stakeholders podem influenciar a eficácia da implementação 
+do XP em uma equipe ou empresa?
+
+1 - É um Método de desenvolvimento de software com ciclo de desenvolvimento curtos e releases frequentes que permite respostas rápidas a mudanças de requisitos em qualquer etapa do desenvolvimento.
+
+2 - No XP a comunicação deve considerar todos como parte do time, inclusive o cliente. A comunicação também exige contato diário, face a face, e o conceito de pair programming (programação em pares).
+Já a colaboração é abordada principalmente no respeito entre os membros do projeto, onde todos buscam  a melhor solução para evitar retrabalhos futuros, as pessoas são valorizadas e ninguém é ignorado.
+
+3 - Em XP os papeis e responsabilidades são definidos de forma colaborativa. De fato, existem funções dentro do projeto que podem ser desempenhadas por diferentes membros do projeto de acordo com as necessidades do projeto.
