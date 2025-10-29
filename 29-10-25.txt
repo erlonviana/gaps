@@ -32,5 +32,8 @@ Grupo finalização: grupo formado para entregar o produto final ou encerrar um 
 -Encerramento do projeto
 -Liberação dos recursos do projeto
 
-Atividades contínuas:
+Atividades contínuas: são atividades continuadas, sem prazo para terminar.
 
+Programas são atividades que se desenvolve dentro do projeto
+
+Portfolio ou carteria é o conjunto dos projetos da organização.
